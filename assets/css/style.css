@@ -169,7 +169,7 @@ input[type=message] {
 
 .Chess {
     float: left;
-    margin-left: 160px;
+    margin-left: 140px;
     margin-top: 40px;
 }
 
@@ -203,5 +203,5 @@ input[type=message] {
     width: 198px;
     padding-top: 5px;
     padding-bottom: 5px;
-  
+
   }
